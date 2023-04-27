@@ -45,8 +45,8 @@ h1 , h2, h4{
 .gift-image{
     background-image: url("gift.jfif");
     background-size: cover;
-    width: 400px;
-    height: 400px;
+    width: 1000px;
+    height: 1000px;
     border: 6px solid white;
     border-radius: 10px;
     display: block;
@@ -81,19 +81,11 @@ h1 , h2, h4{
 }
 
 #gift-image-cheers{
-    height: 200px;
+    height: 500px;
 }
 
 #gift-image-cheers:hover{
     background-image: url("cheers.gif");
 }
 
-/*
-Challenge:
-"Fix" the "gift-img" <div> so that it looks 
-like the provided design again.
-
-It needs a height (should be a square), a
-background image, and to be centered again.
-*/
 
