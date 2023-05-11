@@ -1,9 +1,4 @@
-/*
-Add a thin blurred border around the <h1>, <h2>, 
-and <h4> using the text-shadow technique you 
-learned in the Space Exploration section. Set
-the blur to 1px and the color to black.
-*/
+
 
 #bff-img{
     width: 150px;
@@ -11,7 +6,6 @@ the blur to 1px and the color to black.
     border: 6px solid #EFB0C9;
     
 }
-
 body{
     text-align: center;
     font-family: 'Orbitron', sans-serif;
@@ -43,7 +37,7 @@ h1 , h2, h4{
 }
 
 .gift-image{
-    background-image: url("gift.jfif");
+    background-image: url("images/gift.jfif");
     background-size: cover;
     width: 400px;
     height: 400px;
@@ -55,7 +49,7 @@ h1 , h2, h4{
 }
 
 #gift-image-happy:hover{
-    background-image: url("happy.gif");
+    background-image: url("images/happy.gif");
 
 }
 
@@ -68,15 +62,15 @@ h1 , h2, h4{
 }
 
 #gift-image-hot:hover{
-    background-image: url("hot.gif");
+    background-image: url("images/hot.gif");
 
 }
 #gift-image-badass:hover{
-    background-image: url("badass.gif");
+    background-image: url("images/badass.gif");
 
 }
 #gift-image-genious:hover{
-    background-image: url("genious.gif");
+    background-image: url("images/genious.gif");
 
 }
 
@@ -85,7 +79,7 @@ h1 , h2, h4{
 }
 
 #gift-image-cheers:hover{
-    background-image: url("cheers.gif");
+    background-image: url("images/cheers.gif");
 }
 
 
