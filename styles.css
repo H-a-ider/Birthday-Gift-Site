@@ -8,7 +8,7 @@
 }
 body{
     text-align: center;
-    font-family: 'Orbitron', sans-serif;
+    font-family: sans-serif,'Orbitron';
     color:  #ffffff;
     background: linear-gradient(#a2d2ff,#EFB0C9);
 }
